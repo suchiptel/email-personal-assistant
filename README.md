@@ -1,4 +1,4 @@
-# Email Personal Assistant
+# The Interaction Company of California Email Personal Assistant
 
 This project creates a personalized email assistant using Named Entity Recognition (NER) and Retrieval-Augmented Generation (RAG) based on GPT. It fetches emails, extracts key entities, retrieves past email interactions, and generates personalized replies.
 
